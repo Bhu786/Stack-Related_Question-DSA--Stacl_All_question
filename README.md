@@ -150,10 +150,10 @@ int main()
 # Implement Stack using Queues (STACK BNAO QUESUE SE)
 
 ### STEPS:
-Follow the below steps to implement the push(s, x) operation:  < br / > 
-Enqueue x to q2.  < br / > 
-One by one dequeue everything from q1 and enqueue to q2.  < br / > 
-Swap the queues of q1 and q2. < br / > 
+Follow the below steps to implement the push(s, x) operation:  
+Enqueue x to q2. 
+One by one dequeue everything from q1 and enqueue to q2.  
+Swap the queues of q1 and q2.
 
 ```C++
 /* Program to implement a stack using
